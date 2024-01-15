@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "567295874578",
+    "project_id": "paragram-c114d",
+    "storage_bucket": "paragram-c114d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567295874578:android:e8a81b8afb9afaea2b6acb",
+        "android_client_info": {
+          "package_name": "com.example.paragram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567295874578-83bjj53n0rv0molr753688lb295gge8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFwizyH0iVC9JAks1HH6pUSqY-S4_ENQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567295874578-83bjj53n0rv0molr753688lb295gge8r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "567295874578-lpor2piho77vhb2qah3ud6vrpiiobd0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.paragram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
